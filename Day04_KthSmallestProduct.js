@@ -39,3 +39,5 @@ function kthSmallestProduct(nums1, nums2, k) {
 
   return left;
 }
+const result = kthSmallestProduct([2, 5], [3, 4], 2);
+console.log("Result:", result);
